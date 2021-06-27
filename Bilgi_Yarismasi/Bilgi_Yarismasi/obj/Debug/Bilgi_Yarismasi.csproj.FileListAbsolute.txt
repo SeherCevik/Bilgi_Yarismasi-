@@ -1,0 +1,10 @@
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe.config
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.pdb
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csprojAssemblyReference.cache
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.exe
+C:\Users\grona\Desktop\UDEMY C#\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.pdb
